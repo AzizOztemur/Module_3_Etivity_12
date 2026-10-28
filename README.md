@@ -1,1 +1,3 @@
-# Module_3_Etivity_12
+# MMI Demo project
+
+Demo Project for MMI WS 26/27. We will use this project to apply theoretical knowledge (e.g. versioning via Git, Refactoring, Unit Tests, Usability Tests)
